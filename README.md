@@ -37,6 +37,9 @@
   <a href="https://angular.dev/" target="_blank">
      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
    </a>
+   <a href="https://getbootstrap.com/" target=_blank">
+     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   </a>
