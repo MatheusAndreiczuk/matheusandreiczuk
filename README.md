@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo ao meu perfil 👋
 
 <p align="left">
-   Meu nome é Matheus Andreiczuk e sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR. Meu foco principal é o desenvolvimento web, e estou buscando minha primeira oportunidade de estágio na área.
+   Meu nome é Matheus Andreiczuk e sou formado em Análise e Desenvolvimento de Sistemas na UTFPR. Meu foco principal é o desenvolvimento web.
 </p>
 
 ---
